@@ -1,0 +1,9 @@
+.small {
+    font-weight: 500!important;
+    font-size: 20px!important;
+    letter-spacing: 0.00625rem;
+    text-transform: none;
+    line-height: 1.5rem;
+    margin: 0;
+    color: #7020c1!important;
+}
